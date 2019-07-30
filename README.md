@@ -1,2 +1,2 @@
 # udpconnect
-A comms abstraction for sending udp messages under 1500 bytes
+A communication abstraction for exchanging messages less than 1500 bytes (mtu standard) over UDP
